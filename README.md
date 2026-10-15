@@ -22,12 +22,12 @@ A través de **Isidora TI Studio**, trabajo en propuestas digitales para servici
 
 | Proyecto | Trabajo presentado | Caso |
 | --- | --- | --- |
-| **Jennifer Muñoz** | Sitio de servicios profesionales con presentación y contacto por WhatsApp | [Ver proyecto](https://github.com/is-dc77/is-dc77/blob/main/proyectos/jenny.md) |
+| **Jennifer Muñoz** | Sitio de servicios profesionales con presentación y contacto por WhatsApp | [Ver proyecto](https://github.com/is-dc77/is-dc77/tree/main/proyectos/jenny) |
 | **Cerebro · QA** | Pruebas funcionales, documentación de errores y prioridades de corrección | [Ver caso de testeo](https://github.com/is-dc77/is-dc77/blob/main/proyectos/cerebro-qa.md) |
 | **Gestión de territorios** | Aplicación con calendario, filtros por grupo y mapas | [Ver proyecto](https://github.com/is-dc77/is-dc77/blob/main/proyectos/territorios.md) |
 | **Isidora TI Studio** | Sitio propio de presentación de servicios y contacto | [Ver proyecto](https://github.com/is-dc77/is-dc77/blob/main/proyectos/isidora-ti-studio.md) |
 
-Las fichas describen el alcance y la evidencia disponible de cada trabajo. El código fuente completo y las demostraciones de los proyectos se incorporarán por separado.
+El proyecto de Jennifer Muñoz incluye código fuente, recursos y una guía de ejecución. Las demás fichas describen el alcance y la evidencia disponible de cada trabajo.
 
 ## Mi enfoque
 

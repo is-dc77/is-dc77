@@ -1,0 +1,9 @@
+# Configuración privada y datos generados en ejecución
+review-config.php
+review-config-antiguo.php
+data/
+.env
+.env.*
+*.log
+*.zip
+.DS_Store
