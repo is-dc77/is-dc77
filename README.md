@@ -1,6 +1,6 @@
 <div align="center">
 
-# Isidora
+#  Isidora Almanzar
 ### Desarrollo web · Pruebas de software
 **Isidora TI Studio**
 
